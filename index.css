@@ -5,9 +5,8 @@ body {
 
 * {
   margin: 0;
-  font-family: "Smooch Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
+ font-family: "Poppins", sans-serif;
+  font-weight: 800;
   font-style: normal;
   color: #ffd700;
   text-shadow:
@@ -26,7 +25,6 @@ body {
 }
 .logo {
   width: 100px;
-  padding-right: 10px;
 }
 .AV {
   padding-bottom: 50px;
@@ -36,7 +34,7 @@ body {
   font-size: 48px;
 }
 .AV-P {
-  font-size:19px;
+  font-size:21px;
 }
 
 .container {
